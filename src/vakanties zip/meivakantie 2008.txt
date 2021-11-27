@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie 2008",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "2/5/2008",
+    "Einddatum": "9/5/2008",
+    "Locaties": [
+        {
+            "Locatie":"Magny-le-Hongre",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "2/5/2008",
+            "Einddatum": "9/5/2008",
+            "Fotos": [],
+        },
+    ]
+}

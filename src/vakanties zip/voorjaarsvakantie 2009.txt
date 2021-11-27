@@ -1,0 +1,17 @@
+{
+    "Naam":"Voorjaarsvakantie 2009",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "12/3/2009",
+    "Einddatum": "16/3/2009",
+    "Locaties": [
+        {
+            "Locatie":"38°44'20.4\"N 9°08'32.1\"W",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "12/3/2009",
+            "Einddatum": "16/3/2009",
+            "Fotos": [],
+        },
+    ]
+}

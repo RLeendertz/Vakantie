@@ -1,0 +1,17 @@
+{
+    "Naam":"weekend weg 2010",
+    "Deelnemers":"jc",
+    "Locatie": "",
+    "Startdatum": "26/3/2010",
+    "Einddatum": "29/3/2010",
+    "Locaties": [
+        {
+            "Locatie":"NH Essen",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "26/3/2010",
+            "Einddatum": "29/3/2010",
+            "Fotos": [],
+        },
+    ]
+}

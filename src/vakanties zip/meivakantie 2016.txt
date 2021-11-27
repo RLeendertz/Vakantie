@@ -1,0 +1,25 @@
+{
+    "Naam":"Meivakantie 2016",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "23/4/2016",
+    "Einddatum": "30/4/2016",
+    "Locaties": [
+        {
+            "Locatie":"quinta paraiso da mia",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "23/4/2016",
+            "Einddatum": "27/4/2016",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"37°44'39.2\"N 8°47'06.3\"W",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "28/4/2016",
+            "Einddatum": "30/4/2016",
+            "Fotos": [],
+        },
+    ]
+}

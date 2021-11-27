@@ -1,0 +1,17 @@
+{
+    "Naam":"Zomervakantie 2006",
+    "Deelnemers":"rt",
+    "Locatie": "Denekamp",
+    "Startdatum": "24/7/2006",
+    "Einddatum": "31/7/2006",
+    "Locaties": [
+        {
+            "Locatie":"Denekamp",
+            "Naam":"Kamp",
+            "Beschrijving":"Rens en Tjeu met Hester weg, Nijs in het ziekenhuis",
+            "Startdatum": "24/7/2006",
+            "Einddatum": "31/7/2006",
+            "Fotos": [],
+        },
+    ]
+}

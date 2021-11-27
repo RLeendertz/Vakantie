@@ -1,0 +1,41 @@
+{
+    "Naam":"Frankrijk 2008",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Frankrijk",
+    "Startdatum": "20/7/2008",
+    "Einddatum": "8/8/2008",
+    "Locaties": [
+        {
+            "Locatie":"N47°41’15\", E1°33’24\"",
+            "Naam":"kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "20/7/2008",
+            "Einddatum": "23/7/2008",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"N47°23’12\", W2°30’30\"",
+            "Naam":"kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "23/7/2008",
+            "Einddatum": "27/7/2008",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"N46°06’11\", W1°07’52\"",
+            "Naam":"kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "27/7/2008",
+            "Einddatum": "4/8/2008",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"N47°21’18\", E0°38’00\"",
+            "Naam":"kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "4/8/2008",
+            "Einddatum": "8/8/2008",
+            "Fotos": [],
+        },
+    ]
+}

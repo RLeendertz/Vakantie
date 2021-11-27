@@ -1,0 +1,17 @@
+{
+    "Naam":"Weekend weg 214",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "14/2/2014",
+    "Einddatum": "17/2/2014",
+    "Locaties": [
+        {
+            "Locatie":"Kurfürstendamm",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "14/2/2014",
+            "Einddatum": "17/2/2014",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2021",
+    "Deelnemers":"jctn",
+    "Locatie": "",
+    "Startdatum": "22/10/2021",
+    "Einddatum": "29/10/2021",
+    "Locaties": [
+        {
+            "Locatie":"Lanzarote Apartamentos Fayna Puerto del Carmen",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "22/10/2021",
+            "Einddatum": "29/10/2021",
+            "Fotos": [],
+        },
+    ]
+}

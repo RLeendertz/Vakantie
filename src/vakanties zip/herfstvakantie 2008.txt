@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2008",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "14/10/2008",
+    "Einddatum": "21/10/2008",
+    "Locaties": [
+        {
+            "Locatie":"appartamentos playazul",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "14/10/2008",
+            "Einddatum": "21/10/2008",
+            "Fotos": [],
+        },
+    ]
+}

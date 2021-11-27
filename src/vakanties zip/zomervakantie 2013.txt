@@ -1,0 +1,57 @@
+{
+    "Naam":"Zomervakantie 2013",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "13/7/2013",
+    "Einddatum": "27/7/2013",
+    "Locaties": [
+        {
+            "Locatie":"Mont Ventoux",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "10/7/2013",
+            "Einddatum": "13/7/2013",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"42°42'08.2\"N 2°54'17.5\"E",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "13/7/2013",
+            "Einddatum": "16/7/2013",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"41°27'28.9\"N 2°09'03.2\"E",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "16/7/2013",
+            "Einddatum": "19/7/2013",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"42°33'41.1\"N 1°33'48.1\"E",
+            "Naam":"Kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "19/7/2013",
+            "Einddatum": "20/7/2013",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping Ombrages",
+            "Naam":"Kamp 5",
+            "Beschrijving":"",
+            "Startdatum": "20/7/2013",
+            "Einddatum": "24/7/2013",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Eurodisney",
+            "Naam":"Kamp 6",
+            "Beschrijving":"",
+            "Startdatum": "24/7/2013",
+            "Einddatum": "27/7/2013",
+            "Fotos": [],
+        },
+    ]
+}

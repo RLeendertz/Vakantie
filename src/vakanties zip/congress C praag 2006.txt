@@ -1,0 +1,17 @@
+{
+    "Naam":"Congress",
+    "Deelnemers":"c",
+    "Locatie": "Praag",
+    "Startdatum": "18/6/2006",
+    "Einddatum": "22/6/2006",
+    "Locaties": [
+        {
+            "Locatie":"Praag",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "18/6/2006",
+            "Einddatum": "22/6/2006",
+            "Fotos": [],
+        },
+    ]
+}

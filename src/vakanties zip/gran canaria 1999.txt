@@ -1,0 +1,17 @@
+{
+    "Naam":"Gran Canaria 1999",
+    "Deelnemers":"jcr",
+    "Locatie": "Hotel Sol Barbacán",
+    "Startdatum": "11/1999",
+    "Einddatum": "11/1999",
+    "Locaties": [
+        {
+            "Locatie":"Hotel Sol Barbacán",
+            "Naam":"Hotel",
+            "Beschrijving":"",
+            "Startdatum": "11/1999",
+            "Einddatum": "11/1999",
+            "Fotos": [],
+        },
+    ]
+}

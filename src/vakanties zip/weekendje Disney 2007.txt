@@ -1,0 +1,17 @@
+{
+    "Naam":"weekendje Disney 2007",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "6/12/2007",
+    "Einddatum": "8/12/2007",
+    "Locaties": [
+        {
+            "Locatie":"Magny-le-Hongre",
+            "Naam":"Kamp",
+            "Beschrijving":"weekendje Disney, met Fré en Juul",
+            "Startdatum": "6/12/2007",
+            "Einddatum": "8/12/2007",
+            "Fotos": [],
+        },
+    ]
+}

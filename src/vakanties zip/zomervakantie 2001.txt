@@ -1,0 +1,17 @@
+{
+    "Naam":"zomervakantie 2001",
+    "Deelnemers":"jcrt",
+    "Locatie": "Odoorn",
+    "Startdatum": "1/7/2001",
+    "Einddatum": "15/7/2001",
+    "Locaties": [
+        {
+            "Locatie":"Odoorn",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "1/7/2001",
+            "Einddatum": "15/7/2001",
+            "Fotos": [],
+        },
+    ]
+}

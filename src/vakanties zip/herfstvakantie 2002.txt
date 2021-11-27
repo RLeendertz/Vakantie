@@ -1,0 +1,17 @@
+{
+    "Naam":"herfstvakantie 2002",
+    "Deelnemers":"jcrt",
+    "Locatie": "Corralejo",
+    "Startdatum": "1/11/2002",
+    "Einddatum": "8/11/2002",
+    "Locaties": [
+        {
+            "Locatie":"Corralejo",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "1/11/2002",
+            "Einddatum": "8/11/2002",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Naam":"Zomervakantie 2021",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "17/7/2021",
+    "Einddatum": "5/8/2021",
+    "Locaties": [
+        {
+            "Locatie":"35 Chem. des Garrigues",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "17/7/2021",
+            "Einddatum": "24/7/2021",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping Les Genêts d'Or à Bagnols Sur Cèze",
+            "Naam":"Kamp 2",
+            "Beschrijving":"Tjeu is aan het einde van dit verblijf naar huis vertrokken en heeft wat problemen gehad met de treinreis terug.",
+            "Startdatum": "24/7/2021",
+            "Einddatum": "29/7/2021",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping Crin Blanc Camargues | Camping Arles",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "29/7/2021",
+            "Einddatum": "5/8/2021",
+            "Fotos": [],
+        },
+    ]
+}

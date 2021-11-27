@@ -1,0 +1,17 @@
+{
+    "Naam":"Disney 2019",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "9/3/2019",
+    "Einddatum": "11/3/2019",
+    "Locaties": [
+        {
+            "Locatie":"Disneyland Hotel Frankrijk",
+            "Naam":"Kamp",
+            "Beschrijving":"voor verjaardag Caroline",
+            "Startdatum": "9/3/2019",
+            "Einddatum": "11/3/2019",
+            "Fotos": [],
+        },
+    ]
+}

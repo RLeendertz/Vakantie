@@ -1,0 +1,17 @@
+{
+    "Naam":"Kerstvakantie 2015",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "19/12/2015",
+    "Einddatum": "26/21/2015",
+    "Locaties": [
+        {
+            "Locatie":"La plagne soleil",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "19/12/2015",
+            "Einddatum": "26/12/2015",
+            "Fotos": [],
+        },
+    ]
+}

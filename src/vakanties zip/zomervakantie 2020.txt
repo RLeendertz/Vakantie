@@ -1,0 +1,33 @@
+{
+    "Naam":"Zomervakantie 2020",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "9/7/2020",
+    "Einddatum": "1/8/2020",
+    "Locaties": [
+        {
+            "Locatie":"45°44'23.3\"N 3°03'47.5\"E",
+            "Naam":"Kamp 1",
+            "Beschrijving":"alleen Joost en Caroline",
+            "Startdatum": "9/7/2020",
+            "Einddatum": "18/7/2020",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"43.278803, 2.799872",
+            "Naam":"Kamp 2",
+            "Beschrijving":"RTN zijn er nu bij na een treinreis naar Narbonne",
+            "Startdatum": "18/7/2020",
+            "Einddatum": "25/7/2020",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"44.832037, 0.736401",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "25/7/2020",
+            "Einddatum": "1/8/2020",
+            "Fotos": [],
+        },
+    ]
+}

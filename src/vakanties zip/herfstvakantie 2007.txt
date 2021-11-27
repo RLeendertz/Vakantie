@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2007",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "17/10/2007",
+    "Einddatum": "24/10/2007",
+    "Locaties": [
+        {
+            "Locatie":"Apartamentos Flamingo Lanzarote",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "17/10/2007",
+            "Einddatum": "24/10/2007",
+            "Fotos": [],
+        },
+    ]
+}

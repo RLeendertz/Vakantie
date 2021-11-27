@@ -1,0 +1,17 @@
+{
+    "Naam":"R programmeren Bath",
+    "Deelnemers":"r",
+    "Locatie": "",
+    "Startdatum": "26/11/2017",
+    "Einddatum": "28/11/2017",
+    "Locaties": [
+        {
+            "Locatie":"51°22'31.9\"N 2°21'52.4\"W",
+            "Naam":"Kamp",
+            "Beschrijving":"programmeerwedstrijd",
+            "Startdatum": "26/11/2017",
+            "Einddatum": "28/11/2017",
+            "Fotos": [],
+        },
+    ]
+}

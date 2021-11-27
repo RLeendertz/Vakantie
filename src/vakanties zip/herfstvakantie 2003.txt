@@ -1,0 +1,17 @@
+{
+    "Naam":"herfstvakantie 2003",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Hotel Sol Barbacán",
+    "Startdatum": "15/10/2003",
+    "Einddatum": "30/10/2003",
+    "Locaties": [
+        {
+            "Locatie":"Hotel Sol Barbacán",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "15/10/2003",
+            "Einddatum": "30/10/2003",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Naam":"wintersport 2002",
+    "Deelnemers":"jcrt",
+    "Locatie": "47°26'32.1\"N 10°43'36.8\"E",
+    "Startdatum": "18/3/2002",
+    "Einddatum": "24/3/2002",
+    "Locaties": [
+        {
+            "Locatie":"47°26'32.1\"N 10°43'36.8\"E",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "18/3/2002",
+            "Einddatum": "24/3/2002",
+            "Fotos": [],
+        },
+    ]
+}

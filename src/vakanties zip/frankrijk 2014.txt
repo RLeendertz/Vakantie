@@ -1,0 +1,41 @@
+{
+    "Naam":"Frankrijk 2014",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Frankrijk",
+    "Startdatum": "17/7/2014",
+    "Einddatum": "6/8/2014",
+    "Locaties": [
+        {
+            "Locatie":"",
+            "Naam":"kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "17/7/2014",
+            "Einddatum": "22/7/2014",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"",
+            "Naam":"kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "22/7/2014",
+            "Einddatum": "26/7/2014",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"",
+            "Naam":"kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "26/7/2014",
+            "Einddatum": "1/8/2014",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"",
+            "Naam":"kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "1/8/2014",
+            "Einddatum": "6/8/2014",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Naam":"Londen",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "2/7/2013",
+    "Einddatum": "5/7/2013",
+    "Locaties": [
+        {
+            "Locatie":"51°30'02.6\"N 0°02'41.2\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "2/7/2013",
+            "Einddatum": "5/7/2013",
+            "Fotos": [],
+        },
+    ]
+}

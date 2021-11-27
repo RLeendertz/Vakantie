@@ -1,0 +1,25 @@
+{
+    "Naam":"Meivakantie 2014",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "27/4/2014",
+    "Einddatum": "5/5/2014",
+    "Locaties": [
+        {
+            "Locatie":"Due Ponti Village",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "27/4/2014",
+            "Einddatum": "30/4/2014",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Via Valluccia, 25, 50028 San Donato FI, Italië",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "30/4/2014",
+            "Einddatum": "5/5/2014",
+            "Fotos": [],
+        },
+    ]
+}

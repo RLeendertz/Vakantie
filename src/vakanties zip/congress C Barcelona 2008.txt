@@ -1,0 +1,17 @@
+{
+    "Naam":"Congress C Barcelona 2008",
+    "Deelnemers":"c",
+    "Locatie": "",
+    "Startdatum": "25/6/2008",
+    "Einddatum": "28/6/2008",
+    "Locaties": [
+        {
+            "Locatie":"Catalonia La Maquinista",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "25/6/2008",
+            "Einddatum": "28/6/2008",
+            "Fotos": [],
+        },
+    ]
+}

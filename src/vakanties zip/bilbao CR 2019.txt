@@ -1,0 +1,17 @@
+{
+    "Naam":"Bilbao Rens en Caroline",
+    "Deelnemers":"cr",
+    "Locatie": "",
+    "Startdatum": "17/2/2019",
+    "Einddatum": "20/2/2019",
+    "Locaties": [
+        {
+            "Locatie":"petit place arana Bilbao",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "14/2/2019",
+            "Einddatum": "20/2/2019",
+            "Fotos": [],
+        },
+    ]
+}

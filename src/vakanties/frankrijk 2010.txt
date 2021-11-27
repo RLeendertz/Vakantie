@@ -1,0 +1,49 @@
+{
+    "Naam":"Frankrijk 2010",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Frankrijk",
+    "Startdatum": "2/7/2010",
+    "Einddatum": "22/7/2010",
+    "Locaties": [
+        {
+            "Locatie":"Vallon pont d’Arc (Ardèche)",
+            "Naam":"kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "2/7/2010",
+            "Einddatum": "6/7/2010",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Ile de la Barthelasse (Avignon)",
+            "Naam":"kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "7/7/2010",
+            "Einddatum": "8/7/2010",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Bedoin (mont ventoux)",
+            "Naam":"kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "9/7/2010",
+            "Einddatum": "11/7/2010",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Gap, Frankrijk",
+            "Naam":"kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "12/7/2010",
+            "Einddatum": "15/7/2010",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Lac Vouglans, Tour du Meix",
+            "Naam":"kamp 5",
+            "Beschrijving":"",
+            "Startdatum": "16/7/2010",
+            "Einddatum": "22/7/2010",
+            "Fotos": [],
+        },
+    ]
+}

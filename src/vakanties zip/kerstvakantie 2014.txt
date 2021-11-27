@@ -1,0 +1,17 @@
+{
+    "Naam":"Kerstvakantie 2014",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "20/12/2014",
+    "Einddatum": "23/12/2014",
+    "Locaties": [
+        {
+            "Locatie":"Van der Valk Hotel Moers",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "20/12/2014",
+            "Einddatum": "23/10/2014",
+            "Fotos": [],
+        },
+    ]
+}

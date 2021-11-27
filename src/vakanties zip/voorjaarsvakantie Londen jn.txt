@@ -1,0 +1,17 @@
+{
+    "Naam":"Voorjaarsvakantie Londen JN",
+    "Deelnemers":"jn",
+    "Locatie": "",
+    "Startdatum": "3/3/2019",
+    "Einddatum": "6/3/2019",
+    "Locaties": [
+        {
+            "Locatie":"51°25'58.7\"N 0°05'18.6\"W",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "3/3/2019",
+            "Einddatum": "6/3/2019",
+            "Fotos": [],
+        },
+    ]
+}

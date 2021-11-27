@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie 2013",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "26/4/2013",
+    "Einddatum": "2/5/2013",
+    "Locaties": [
+        {
+            "Locatie":"tenuta deserto, Puglia",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "26/4/2013",
+            "Einddatum": "2/5/2013",
+            "Fotos": [],
+        },
+    ]
+}

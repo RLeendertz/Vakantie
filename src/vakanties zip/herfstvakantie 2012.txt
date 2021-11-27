@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2012",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "22/10/2012",
+    "Einddatum": "29/10/2012",
+    "Locaties": [
+        {
+            "Locatie":"Av. Rafael Puig Lluvina, 38650 Arona, Santa Cruz Tenerife",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "22/10/2012",
+            "Einddatum": "22/10/2012",
+            "Fotos": [],
+        },
+    ]
+}

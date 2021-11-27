@@ -1,0 +1,25 @@
+{
+    "Naam":"Zomervakantie T 2019",
+    "Deelnemers":"t",
+    "Locatie": "",
+    "Startdatum": "24/7/2019",
+    "Einddatum": "30/7/2019",
+    "Locaties": [
+        {
+            "Locatie":"52°29'01.0\"N 13°24'41.5\"E",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "24/7/2019",
+            "Einddatum": "26/7/2019",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"50°04'22.6\"N 14°27'10.8\"E",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "26/7/2019",
+            "Einddatum": "30/7/2019",
+            "Fotos": [],
+        },
+    ]
+}

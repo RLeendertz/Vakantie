@@ -1,0 +1,17 @@
+{
+    "Naam":"Arnsberg 2004",
+    "Deelnemers":"jc",
+    "Locatie": "Arnsberg",
+    "Startdatum": "14/2/2004",
+    "Einddatum": "17/2/2004",
+    "Locaties": [
+        {
+            "Locatie":"Arnsberg",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "14/2/2004",
+            "Einddatum": "17/2/2004",
+            "Fotos": [],
+        },
+    ]
+}

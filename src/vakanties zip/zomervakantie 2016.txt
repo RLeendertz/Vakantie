@@ -1,0 +1,49 @@
+{
+    "Naam":"Zomervakantie 2016",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "10/7/2016",
+    "Einddatum": "28/7/2016",
+    "Locaties": [
+        {
+            "Locatie":"43°38'25.3\"N 0°55'18.7\"E ",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "10/7/2016",
+            "Einddatum": "13/7/2016",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping Vieux Berger",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "13/7/2016",
+            "Einddatum": "17/7/2016",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"44°46'01.8\"N 1°08'01.5\"W",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "17/7/2016",
+            "Einddatum": "21/7/2016",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping les Dunes",
+            "Naam":"Kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "21/7/2016",
+            "Einddatum": "25/7/2016",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"47°24'31.1\"N 0°58'14.8\"E",
+            "Naam":"Kamp 5",
+            "Beschrijving":"",
+            "Startdatum": "25/7/2016",
+            "Einddatum": "28/7/2016",
+            "Fotos": [],
+        },
+    ]
+}

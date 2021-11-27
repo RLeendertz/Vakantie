@@ -1,0 +1,17 @@
+{
+    "Naam":"Weekend skiën 2012",
+    "Deelnemers":"jtn",
+    "Locatie": "",
+    "Startdatum": "27/1/2012",
+    "Einddatum": "30/1/2012",
+    "Locaties": [
+        {
+            "Locatie":"46°22'14.5\"N 6°01'24.5\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "27/1/2012",
+            "Einddatum": "30/1/2012",
+            "Fotos": [],
+        },
+    ]
+}

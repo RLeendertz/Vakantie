@@ -1,0 +1,17 @@
+{
+    "Naam":"Weekend weg 2013",
+    "Deelnemers":"jrn",
+    "Locatie": "",
+    "Startdatum": "7/10/2013",
+    "Einddatum": "10/10/2013",
+    "Locaties": [
+        {
+            "Locatie":"Eurodisney",
+            "Naam":"Kamp",
+            "Beschrijving":"samen met Paul en Félice",
+            "Startdatum": "7/10/2013",
+            "Einddatum": "10/10/2013",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Naam":"C congress Hamburg 2018",
+    "Deelnemers":"c",
+    "Locatie": "",
+    "Startdatum": "20/5/2018",
+    "Einddatum": "22/5/2018",
+    "Locaties": [
+        {
+            "Locatie":"53°36'31.6\"N 10°05'03.6\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "20/5/2018",
+            "Einddatum": "22/5/2018",
+            "Fotos": [],
+        },
+    ]
+}

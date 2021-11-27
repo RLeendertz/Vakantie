@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie 2007",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Camping Iris Parc Le Chêne Gris",
+    "Startdatum": "23/5/2007",
+    "Einddatum": "29/5/2007",
+    "Locaties": [
+        {
+            "Locatie":"Camping Iris Parc Le Chêne Gris",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "23/5/2007",
+            "Einddatum": "29/5/2007",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Naam":"Voorjaarsvakantie 2008",
+    "Deelnemers":"jc",
+    "Locatie": "",
+    "Startdatum": "14/2/2008",
+    "Einddatum": "18/2/2008",
+    "Locaties": [
+        {
+            "Locatie":"Rome",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "14/2/2008",
+            "Einddatum": "18/2/2008",
+            "Fotos": [],
+        },
+    ]
+}

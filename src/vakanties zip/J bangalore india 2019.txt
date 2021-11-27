@@ -1,0 +1,17 @@
+{
+    "Naam":"J Bangalore India 2019",
+    "Deelnemers":"j",
+    "Locatie": "",
+    "Startdatum": "4/7/2019",
+    "Einddatum": "9/7/2019",
+    "Locaties": [
+        {
+            "Locatie":"12°57'39.6\"N 77°31'45.4\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"First class heenreis",
+            "Startdatum": "4/7/2019",
+            "Einddatum": "9/7/2019",
+            "Fotos": [],
+        },
+    ]
+}

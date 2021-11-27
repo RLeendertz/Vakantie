@@ -1,0 +1,17 @@
+{
+    "Naam":"Zomervakantie 20004",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Vakantiepark Diana Heide, Amen",
+    "Startdatum": "19/7/2004",
+    "Einddatum": "3/8/2004",
+    "Locaties": [
+        {
+            "Locatie":"Vakantiepark Diana Heide, Amen",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "19/7/2004",
+            "Einddatum": "3/8/2004",
+            "Fotos": [],
+        },
+    ]
+}

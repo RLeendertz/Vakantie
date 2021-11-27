@@ -1,0 +1,49 @@
+{
+    "Naam":"Frankrijk 2011",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Frankrijk",
+    "Startdatum": "29/7/2011",
+    "Einddatum": "12/8/2011",
+    "Locaties": [
+        {
+            "Locatie":"L’île des Trois Rois",
+            "Naam":"kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "29/7/2011",
+            "Einddatum": "31/7/2011",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Chambord ",
+            "Naam":"kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "31/7/2011",
+            "Einddatum": "1/8/2011",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping Yelloh Village La Pomme De Pin",
+            "Naam":"kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "1/8/2011",
+            "Einddatum": "4/8/2011",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Airotel Camping la Roseraie, La Baule",
+            "Naam":"kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "4/8/2011",
+            "Einddatum": "8/8/2011",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping de l'Etang, Brissac",
+            "Naam":"kamp 5",
+            "Beschrijving":"",
+            "Startdatum": "8/8/2011",
+            "Einddatum": "12/8/2011",
+            "Fotos": [],
+        },
+    ]
+}

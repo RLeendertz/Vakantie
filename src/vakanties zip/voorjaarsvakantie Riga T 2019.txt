@@ -1,0 +1,17 @@
+{
+    "Naam":"Voorjaarsvakantie Riga T",
+    "Deelnemers":"t",
+    "Locatie": "",
+    "Startdatum": "26/2/2019",
+    "Einddatum": "2/3/2019",
+    "Locaties": [
+        {
+            "Locatie":"Bellevue Park Hotel Riga",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "26/2/2019",
+            "Einddatum": "2/3/2019",
+            "Fotos": [],
+        },
+    ]
+}

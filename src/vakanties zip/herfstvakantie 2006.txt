@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2006",
+    "Deelnemers":"jcrtn",
+    "Locatie": "27°44'18.9\"N 15°35'55.3\"W",
+    "Startdatum": "24/10/2006",
+    "Einddatum": "31/10/2006",
+    "Locaties": [
+        {
+            "Locatie":"27°44'18.9\"N 15°35'55.3\"W",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "24/10/2006",
+            "Einddatum": "31/10/2006",
+            "Fotos": [],
+        },
+    ]
+}

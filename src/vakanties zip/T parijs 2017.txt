@@ -1,0 +1,17 @@
+{
+    "Naam":"Tjeu Parijs",
+    "Deelnemers":"t",
+    "Locatie": "",
+    "Startdatum": "23/8/2017",
+    "Einddatum": "27/8/2017",
+    "Locaties": [
+        {
+            "Locatie":"48°52'38.9\"N 2°20'20.9\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "23/8/2017",
+            "Einddatum": "27/8/2017",
+            "Fotos": [],
+        },
+    ]
+}

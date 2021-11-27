@@ -1,0 +1,17 @@
+{
+    "Naam":"Zomervakantie 2005",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Oostkapelle",
+    "Startdatum": "2/7/2005",
+    "Einddatum": "18/7/2005",
+    "Locaties": [
+        {
+            "Locatie":"Oostkapelle",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "2/7/2005",
+            "Einddatum": "18/7/2005",
+            "Fotos": [],
+        },
+    ]
+}

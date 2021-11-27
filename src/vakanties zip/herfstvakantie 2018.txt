@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2018",
+    "Deelnemers":"jcn",
+    "Locatie": "",
+    "Startdatum": "16/10/2018",
+    "Einddatum": "23/10/2018",
+    "Locaties": [
+        {
+            "Locatie":"Lanzarote Apartamentos Fayna Puerto del Carmen",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "16/10/2018",
+            "Einddatum": "23/10/2018",
+            "Fotos": [],
+        },
+    ]
+}

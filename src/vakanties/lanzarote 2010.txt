@@ -1,0 +1,17 @@
+{
+    "Naam":"Lanzarote 2010",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Puerto del Carmen Club del Carmen",
+    "Startdatum": "16/10/2010",
+    "Einddatum": "23/10/2010",
+    "Locaties": [
+        {
+            "Locatie":"Puerto del Carmen Club del Carmen",
+            "Naam":"appartement",
+            "Beschrijving":"koffers waren niet meegekomen bij de overstap",
+            "Startdatum": "16/10/2010",
+            "Einddatum": "23/10/2010",
+            "Fotos": [],
+        },
+    ]
+}

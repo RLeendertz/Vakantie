@@ -1,0 +1,41 @@
+{
+    "Naam":"Zomervakantie 2012",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "8/7/2012",
+    "Einddatum": "26/7/2012",
+    "Locaties": [
+        {
+            "Locatie":"ampingplatz Lana",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "8/7/2012",
+            "Einddatum": "12/7/2012",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"45°27'52.8\"N 10°35'30.9\"E",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "12/7/2012",
+            "Einddatum": "16/7/2012",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Fusina Camping & Dock",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "16/7/2012",
+            "Einddatum": "20/7/2012",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"45°08'07.9\"N 12°19'08.4\"E",
+            "Naam":"Kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "20/7/2012",
+            "Einddatum": "26/7/2012",
+            "Fotos": [],
+        },
+    ]
+}

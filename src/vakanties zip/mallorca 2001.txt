@@ -1,0 +1,17 @@
+{
+    "Naam":"voorjaarsvakantie 2001",
+    "Deelnemers":"jcrt",
+    "Locatie": "Mallorca",
+    "Startdatum": "22/4/2001",
+    "Einddatum": "29/4/2001",
+    "Locaties": [
+        {
+            "Locatie":"Mallorca",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "22/4/2001",
+            "Einddatum": "29/4/2001",
+            "Fotos": [],
+        }
+    ]
+}

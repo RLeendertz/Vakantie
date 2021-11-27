@@ -1,0 +1,17 @@
+{
+    "Naam":"zomervakantie 2002",
+    "Deelnemers":"jcrt",
+    "Locatie": "lemelerberg",
+    "Startdatum": "10/7/2002",
+    "Einddatum": "25/7/2002",
+    "Locaties": [
+        {
+            "Locatie":"lemelerberg",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "10/7/2002",
+            "Einddatum": "25/7/2002",
+            "Fotos": [],
+        },
+    ]
+}

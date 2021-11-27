@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie 2019",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "25/4/2019",
+    "Einddatum": "2/5/2019",
+    "Locaties": [
+        {
+            "Locatie":"44.092379, 10.014681",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "25/4/2019",
+            "Einddatum": "2/5/2019",
+            "Fotos": [],
+        },
+    ]
+}

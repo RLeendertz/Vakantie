@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2019",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "20/10/2019",
+    "Einddatum": "27/10/2019",
+    "Locaties": [
+        {
+            "Locatie":"Lanzarote Apartamentos Fayna Puerto del Carmen",
+            "Naam":"Kamp",
+            "Beschrijving":"Rens kwam later met een andere vlucht, die wat problemen had. Zo is hij halverwege de vlucht terug gegaan naar Schiphol",
+            "Startdatum": "20/21/2019",
+            "Einddatum": "27/10/2019",
+            "Fotos": [],
+        },
+    ]
+}

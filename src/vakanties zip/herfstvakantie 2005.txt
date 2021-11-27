@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2005",
+    "Deelnemers":"jcrtn",
+    "Locatie": "r2 bahia kontiki",
+    "Startdatum": "16/10/2005",
+    "Einddatum": "23/10/2005",
+    "Locaties": [
+        {
+            "Locatie":"bahia kontiki",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "16/10/2005",
+            "Einddatum": "23/10/2005",
+            "Fotos": [],
+        },
+    ]
+}

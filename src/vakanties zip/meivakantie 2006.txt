@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Rhodos",
+    "Startdatum": "24/5/2006",
+    "Einddatum": "31/5/2006",
+    "Locaties": [
+        {
+            "Locatie":"Rhodos",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "24/5/2006",
+            "Einddatum": "31/5/2006",
+            "Fotos": [],
+        },
+    ]
+}

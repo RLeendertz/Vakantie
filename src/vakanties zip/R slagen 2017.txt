@@ -1,0 +1,17 @@
+{
+    "Naam":"slagen Rens",
+    "Deelnemers":"cr",
+    "Locatie": "",
+    "Startdatum": "23/5/2017",
+    "Einddatum": "28/5/2017",
+    "Locaties": [
+        {
+            "Locatie":"hotel hive washington",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "23/5/2017",
+            "Einddatum": "28/5/2017",
+            "Fotos": [],
+        },
+    ]
+}

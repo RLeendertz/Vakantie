@@ -1,0 +1,17 @@
+{
+    "Naam":"Rens Berlijn School 2016",
+    "Deelnemers":"r",
+    "Locatie": "",
+    "Startdatum": "12/5/2016",
+    "Einddatum": "16/5/2016",
+    "Locaties": [
+        {
+            "Locatie":"52°28'35.1\"N 13°23'50.0\"E ",
+            "Naam":"Kamp",
+            "Beschrijving":"Rens naar Berlijn met school",
+            "Startdatum": "12/5/2016",
+            "Einddatum": "16/5/2016",
+            "Fotos": [],
+        },
+    ]
+}

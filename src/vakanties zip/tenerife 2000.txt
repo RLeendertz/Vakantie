@@ -1,0 +1,17 @@
+{
+    "Naam":"Tenerife 2000",
+    "Deelnemers":"jcr",
+    "Locatie": "appartement columbus tenerife",
+    "Startdatum": "11/2000",
+    "Einddatum": "11/2000",
+    "Locaties": [
+        {
+            "Locatie":"appartement columbus tenerife",
+            "Naam":"appartement",
+            "Beschrijving":"",
+            "Startdatum": "11/2000",
+            "Einddatum": "11/2000",
+            "Fotos": [],
+        },
+    ]
+}

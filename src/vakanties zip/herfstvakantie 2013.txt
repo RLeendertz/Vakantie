@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2013",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "21/10/2013",
+    "Einddatum": "28/10/2013",
+    "Locaties": [
+        {
+            "Locatie":"Apartamentos Flamingo Lanzarote",
+            "Naam":"Kamp",
+            "Beschrijving":"samen met Paul en Félice",
+            "Startdatum": "21/10/2013",
+            "Einddatum": "28/10/2013",
+            "Fotos": [],
+        },
+    ]
+}

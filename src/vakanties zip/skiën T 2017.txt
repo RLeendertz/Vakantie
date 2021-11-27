@@ -1,0 +1,17 @@
+{
+    "Naam":"Skiën Tjeu 2017",
+    "Deelnemers":"t",
+    "Locatie": "",
+    "Startdatum": "20/2/2017",
+    "Einddatum": "24/2/2017",
+    "Locaties": [
+        {
+            "Locatie":"47°21'37.1\"N 12°07'22.9\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "20/2/2017",
+            "Einddatum": "24/2/2017",
+            "Fotos": [],
+        },
+    ]
+}

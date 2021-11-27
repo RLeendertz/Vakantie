@@ -1,0 +1,17 @@
+{
+    "Naam":"Kerstvakantie 2019",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "22/12/2019",
+    "Einddatum": "29/12/2019",
+    "Locaties": [
+        {
+            "Locatie":"C. Costa del Azahar, 36",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "22/12/2019",
+            "Einddatum": "29/12/2019",
+            "Fotos": [],
+        },
+    ]
+}

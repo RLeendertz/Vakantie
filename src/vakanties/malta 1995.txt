@@ -1,0 +1,17 @@
+{
+    "Naam":"Malta 1995",
+    "Deelnemers":"jc",
+    "Locatie": "Bugibba, Malta",
+    "Startdatum": "11/4/1995",
+    "Einddatum": "18/4/1995",
+    "Locaties": [
+        {
+            "Locatie":"Bugibba",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "11/4/1995",
+            "Einddatum": "18/4/1995",
+            "Fotos": [],
+        },
+    ]
+}

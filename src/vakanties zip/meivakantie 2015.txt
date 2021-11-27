@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie 2015",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "5/5/2015",
+    "Einddatum": "12/5/2015",
+    "Locaties": [
+        {
+            "Locatie":"35°51'34.5\"N 14°33'29.4\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "5/5/2015",
+            "Einddatum": "12/5/2015",
+            "Fotos": [],
+        },
+    ]
+}

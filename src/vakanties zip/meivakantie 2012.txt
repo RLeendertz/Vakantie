@@ -1,0 +1,33 @@
+{
+    "Naam":"Meivakantie 2012",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "26/4/2012",
+    "Einddatum": "3/5/2012",
+    "Locaties": [
+        {
+            "Locatie":"Casitas de la sierra",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "26/4/2012",
+            "Einddatum": "28/4/2012",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"cortijo el mastral",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "28/4/2012",
+            "Einddatum": "2/5/2012",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"37°22'47.0\"N 5°58'52.2\"W",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "2/5/2012",
+            "Einddatum": "3/5/2012",
+            "Fotos": [],
+        },
+    ]
+}

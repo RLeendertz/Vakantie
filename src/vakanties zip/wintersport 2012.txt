@@ -1,0 +1,17 @@
+{
+    "Naam":"Wintersport 2012",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "22/12/2012",
+    "Einddatum": "29/12/2012",
+    "Locaties": [
+        {
+            "Locatie":"les suites du val claret",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "22/12/2012",
+            "Einddatum": "29/12/2012",
+            "Fotos": [],
+        },
+    ]
+}

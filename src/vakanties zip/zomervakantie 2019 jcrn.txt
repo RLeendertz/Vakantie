@@ -1,0 +1,49 @@
+{
+    "Naam":"Zomervakantie 2019",
+    "Deelnemers":"jcrn",
+    "Locatie": "",
+    "Startdatum": "20/7/2019",
+    "Einddatum": "7/8/2019",
+    "Locaties": [
+        {
+            "Locatie":"Camping Ombrages",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "20/7/2019",
+            "Einddatum": "24/7/2019",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"44°50'39.2\"N 0°31'58.7\"E",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "24/7/2019",
+            "Einddatum": "26/7/2019",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"45°10'21.2\"N 0°44'21.0\"W",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "26/7/2019",
+            "Einddatum": "29/7/2019",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"44°11'35.1\"N 3°12'22.4\"E",
+            "Naam":"Kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "29/7/2019",
+            "Einddatum": "3/8/2019",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping municipal des Combles",
+            "Naam":"Kamp 5",
+            "Beschrijving":"",
+            "Startdatum": "3/8/2019",
+            "Einddatum": "7/8/2019",
+            "Fotos": [],
+        },
+    ]
+}

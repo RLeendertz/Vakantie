@@ -1,0 +1,17 @@
+{
+    "Naam":"herfstvakantie 2001",
+    "Deelnemers":"jcrt",
+    "Locatie": "Parque Santiago III, Avenida las Américas, Playa de las Américas",
+    "Startdatum": "1/11/2001",
+    "Einddatum": "9/11/2001",
+    "Locaties": [
+        {
+            "Locatie":"Parque Santiago III, Avenida las Américas, Playa de las Américas",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "1/11/2001",
+            "Einddatum": "9/11/2001",
+            "Fotos": [],
+        },
+    ]
+}

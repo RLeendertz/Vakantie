@@ -1,0 +1,17 @@
+{
+    "Naam":"Voorjaarsvakantie 2007",
+    "Deelnemers":"jc",
+    "Locatie": "41°23'06.0\"N 2°10'34.4\"E",
+    "Startdatum": "14/3/2007",
+    "Einddatum": "18/3/2007",
+    "Locaties": [
+        {
+            "Locatie":"41°23'06.0\"N 2°10'34.4\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "14/3/2007",
+            "Einddatum": "18/3/2007",
+            "Fotos": [],
+        },
+    ]
+}

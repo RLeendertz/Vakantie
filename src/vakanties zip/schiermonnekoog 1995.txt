@@ -1,0 +1,17 @@
+{
+    "Naam":"Schiermonnikoog 1995",
+    "Deelnemers":"jc",
+    "Locatie": "53°30'21.9\"N 6°18'26.0\"E",
+    "Startdatum": "5/1995",
+    "Einddatum": "5/1995",
+    "Locaties": [
+        {
+            "Locatie":"53°30'21.9\"N 6°18'26.0\"E",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "5/1995",
+            "Einddatum": "5/1995",
+            "Fotos": [],
+        },
+    ]
+}

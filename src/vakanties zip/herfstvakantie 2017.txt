@@ -1,0 +1,17 @@
+{
+    "Naam":"Herfstvakantie 2017",
+    "Deelnemers":"jctn",
+    "Locatie": "",
+    "Startdatum": "24/10/2017",
+    "Einddatum": "31/10/2017",
+    "Locaties": [
+        {
+            "Locatie":"casa las rosas, lanzarote",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "24/10/2017",
+            "Einddatum": "31/10/2017",
+            "Fotos": [],
+        },
+    ]
+}

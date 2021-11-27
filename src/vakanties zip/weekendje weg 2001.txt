@@ -1,0 +1,17 @@
+{
+    "Naam":"weekendje Londen 2001",
+    "Deelnemers":"jc",
+    "Locatie": "51°35'17.1\"N 0°07'15.1\"W",
+    "Startdatum": "13/9/2001",
+    "Einddatum": "19/9/2001",
+    "Locaties": [
+        {
+            "Locatie":"51°35'17.1\"N 0°07'15.1\"W",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "13/9/2001",
+            "Einddatum": "19/9/2001",
+            "Fotos": [],
+        },
+    ]
+}

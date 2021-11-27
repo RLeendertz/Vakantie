@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie 2018",
+    "Deelnemers":"jcrn",
+    "Locatie": "",
+    "Startdatum": "28/4/2018",
+    "Einddatum": "4/5/2018",
+    "Locaties": [
+        {
+            "Locatie":"44°49'21.7\"N 13°51'42.1\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"met Paul en Félice",
+            "Startdatum": "28/4/2018",
+            "Einddatum": "4/5/2018",
+            "Fotos": [],
+        },
+    ]
+}

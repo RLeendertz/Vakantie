@@ -1,0 +1,17 @@
+{
+    "Naam":"Cyprus 2000",
+    "Deelnemers":"jcr",
+    "Locatie": "Cyprus",
+    "Startdatum": "4/2000",
+    "Einddatum": "4/2000",
+    "Locaties": [
+        {
+            "Locatie":"Cyprus",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "4/2000",
+            "Einddatum": "4/2000",
+            "Fotos": [],
+        },
+    ]
+}

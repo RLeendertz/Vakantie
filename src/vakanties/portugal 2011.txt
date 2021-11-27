@@ -1,0 +1,33 @@
+{
+    "Naam":"Portugal 2011",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Portugal",
+    "Startdatum": "24/4/2011",
+    "Einddatum": "3/5/2011",
+    "Locaties": [
+        {
+            "Locatie":"Quinta do Corvo",
+            "Naam":"kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "24/4/2011",
+            "Einddatum": "27/4/2011",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Termas da Azenha",
+            "Naam":"kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "28/4/2011",
+            "Einddatum": "30/4/2011",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Quinta do Burgo Turismo Rural",
+            "Naam":"kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "1/5/2011",
+            "Einddatum": "3/5/2011",
+            "Fotos": [],
+        },
+    ]
+}

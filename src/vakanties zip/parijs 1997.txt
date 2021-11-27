@@ -1,0 +1,17 @@
+{
+    "Naam":"weekendje Parijs 1997",
+    "Deelnemers":"jc",
+    "Locatie": "48.769065, 2.490350",
+    "Startdatum": "4/1997",
+    "Einddatum": "4/1997",
+    "Locaties": [
+        {
+            "Locatie":"48.769065, 2.490350",
+            "Naam":"kamp",
+            "Beschrijving":"weekendje weg",
+            "Startdatum": "4/1997",
+            "Einddatum": "4/1997",
+            "Fotos": [],
+        },
+    ]
+}

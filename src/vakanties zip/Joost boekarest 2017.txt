@@ -1,0 +1,17 @@
+{
+    "Naam":"Joost Boekarest 2017",
+    "Deelnemers":"j",
+    "Locatie": "",
+    "Startdatum": "22/3/2017",
+    "Einddatum": "28/3/2017",
+    "Locaties": [
+        {
+            "Locatie":"44°26'47.6\"N 26°02'22.9\"E",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "22/3/2017",
+            "Einddatum": "28/3/2017",
+            "Fotos": [],
+        },
+    ]
+}

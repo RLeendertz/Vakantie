@@ -1,0 +1,17 @@
+{
+    "Naam":"Kerstvakantie 2018",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "23/12/2018",
+    "Einddatum": "30/12/2018",
+    "Locaties": [
+        {
+            "Locatie":"38°03'45.5\"N 0°42'47.3\"W",
+            "Naam":"Kamp",
+            "Beschrijving":"",
+            "Startdatum": "23/12/2018",
+            "Einddatum": "30/12/2018",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Naam":"Meivakantie 2005",
+    "Deelnemers":"jcrtn",
+    "Locatie": "Menorca",
+    "Startdatum": "8/5/2005",
+    "Einddatum": "15/5/2005",
+    "Locaties": [
+        {
+            "Locatie":"Menorca",
+            "Naam":"kamp",
+            "Beschrijving":"",
+            "Startdatum": "8/5/2005",
+            "Einddatum": "15/5/2005",
+            "Fotos": [],
+        },
+    ]
+}

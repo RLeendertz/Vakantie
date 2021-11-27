@@ -1,0 +1,25 @@
+{
+    "Naam":"Wintersport 2013",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "21/12/2013",
+    "Einddatum": "30/12/2013",
+    "Locaties": [
+        {
+            "Locatie":"CGH Résidences & Spas - Le Jhana",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "21/12/2013",
+            "Einddatum": "28/12/2013",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Eurodisney",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "28/12/2013",
+            "Einddatum": "30/12/2013",
+            "Fotos": [],
+        },
+    ]
+}

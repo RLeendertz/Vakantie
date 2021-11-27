@@ -1,0 +1,41 @@
+{
+    "Naam":"Zomervakantie 2015",
+    "Deelnemers":"jcrtn",
+    "Locatie": "",
+    "Startdatum": "20/7/2015",
+    "Einddatum": "5/8/2015",
+    "Locaties": [
+        {
+            "Locatie":"Camping Campéole L'Ile des Papes",
+            "Naam":"Kamp 1",
+            "Beschrijving":"",
+            "Startdatum": "20/7/2015",
+            "Einddatum": "24/7/20115",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"Camping La Source",
+            "Naam":"Kamp 2",
+            "Beschrijving":"",
+            "Startdatum": "24/7/2015",
+            "Einddatum": "28/7/20115",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"43°39'41.8\"N 7°09'15.2\"E",
+            "Naam":"Kamp 3",
+            "Beschrijving":"",
+            "Startdatum": "28/7/2015",
+            "Einddatum": "2/8/20115",
+            "Fotos": [],
+        },
+        {
+            "Locatie":"43°36'06.6\"N 1°27'00.8\"E",
+            "Naam":"Kamp 4",
+            "Beschrijving":"",
+            "Startdatum": "2/8/2015",
+            "Einddatum": "5/8/20115",
+            "Fotos": [],
+        },
+    ]
+}

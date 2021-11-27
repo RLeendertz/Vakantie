@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vakanties</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="sidebar">
+        <div id="tophalf" class="side">
+          <H3 class="title"></H3>
+          <p class="description"></p>
+          <div class=fotos></div>
+          <button class="close">Terug naar overzicht</button>
+        <!--   <H3>Canada 2000</H3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sollicitudin viverra sapien a dictum. Praesent finibus euismod mauris non pellentesque</p>
+     --> </div>
+        <div id="bottomhalf" class="side">
+          <hr>
+          <H3 class="title"></H3>
+          <p class="description"></p>
+          <div class=fotos></div>
+          <button class="close">Terug naar vakantie</button>
+
+        </div>
+      </div>
+      <div id="map"></div>
+    </div>
+    <script src="./index.js"></script>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAahF8_1YLrWbirfQnfAqpzybXbtdazg9I&callback=initMap&v=weekly"
+      async
+    ></script>
+  </body>
+</html>
