@@ -143,6 +143,9 @@ for filename in os.listdir(directory):
 	prev = data[file]
 	prevdata = prev["properties"]
 	modified = False
+	new["Startdatum"].replace("-", "/")
+	new["Einddatum"].replace("-", "/")
+
 	for m in mapping:
 		if m in new and new[m] != prevdata[mapping[m]]:
 			modified = True
