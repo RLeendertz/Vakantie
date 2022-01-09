@@ -62,6 +62,9 @@ def do_one(prev, new):
 		#api call
 		prev["geometry"]["coordinates"] = do_api(new["Locatie"])
 
+	new["Startdatum"]=new["Startdatum"].replace("-", "/")
+	new["Einddatum"]=new["Einddatum"].replace("-", "/")
+
 	for m in mapping:
 		if m in new and (mapping[m] not in p or p[mapping[m]] != new[m]):
 			# print(m)
@@ -143,8 +146,8 @@ for filename in os.listdir(directory):
 	prev = data[file]
 	prevdata = prev["properties"]
 	modified = False
-	new["Startdatum"].replace("-", "/")
-	new["Einddatum"].replace("-", "/")
+	new["Startdatum"]=new["Startdatum"].replace("-", "/")
+	new["Einddatum"]=new["Einddatum"].replace("-", "/")
 
 	for m in mapping:
 		if m in new and new[m] != prevdata[mapping[m]]:
