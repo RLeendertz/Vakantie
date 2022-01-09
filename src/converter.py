@@ -20,10 +20,11 @@ def extract_first(path):
 
 def do_api(text):
 	try: 
-		x,y=map(int, text.split(','))
+		x,y=map(float, text.split(','))
 		return x,y
-	except:
-		pass
+	except ValueError as e:
+		print(e)
+		return [0,0]
 	# import random
 	# return [random.randint(-100, 100),random.randint(-50, 50)]
 	payload = {"key": key, "query":text}
