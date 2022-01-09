@@ -1,0 +1,22 @@
+{
+    "Naam":"naam",
+    "Deelnemers":"jcrtn",
+    "Locatie": [-116.1772552, 51.4253705],
+    "Startdatum": "datum",
+    "Einddatum": "datum",
+    "Locaties": [
+        {
+            "Locatie":[-116.1772552, 51.4253705],
+            "Naam":"naam",
+            "Beschrijving":"tekst hier",
+            "Startdatum": "datum",
+            "Einddatum": "datum",
+            "Fotos": [
+                "foto1.jpg", 
+                "foto2.png",
+                …,
+            ],
+        },
+        {…}
+    ]
+}

@@ -19,6 +19,11 @@ def extract_first(path):
 	return path["geometry"]["coordinates"][0]
 
 def do_api(text):
+	try: 
+		x,y=map(int, text.split(','))
+		return x,y
+	except:
+		pass
 	# import random
 	# return [random.randint(-100, 100),random.randint(-50, 50)]
 	payload = {"key": key, "query":text}
@@ -62,7 +67,7 @@ def do_one(prev, new):
 			modified=True
 			p[mapping[m]] = new[m]
 	# print(prev, new)
-	return modified, new["Fotos"], prev["geometry"]["coordinates"]
+	return modified, new["Fotos"] if "Fotos" in new else [], prev["geometry"]["coordinates"]
 
 def do_inner(prevInner, new):
 	modified=False
@@ -126,7 +131,7 @@ data = defaultdict(def_value)
 for item in obj["features"]:
 	data[item["properties"]["name"]] = item
 
-directory = ".\\vakanties zip"
+directory = ".\\new"
 for filename in os.listdir(directory):
 	file = os.path.join(directory, filename)
 	if not os.path.isfile(file): continue
@@ -137,10 +142,6 @@ for filename in os.listdir(directory):
 	prev = data[file]
 	prevdata = prev["properties"]
 	modified = False
-	# if prevdata["location"] != new["Locatie"]:
-	# 	modified = True
-	# 	#api call
-	# 	prev["geometry"]["coordinates"] = do_api(new["Locatie"])
 	for m in mapping:
 		if m in new and new[m] != prevdata[mapping[m]]:
 			modified = True
