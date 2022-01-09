@@ -21,7 +21,7 @@ def extract_first(path):
 def do_api(text):
 	try: 
 		x,y=map(float, text.split(','))
-		return x,y
+		return y,x
 	except ValueError as e:
 		print(e)
 		return [0,0]
