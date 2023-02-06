@@ -1,0 +1,17 @@
+{
+    "Naam":"Newcastle - Dennis",
+    "Deelnemers":"T",
+    "Locatie": [54.97335305309526, -1.60599708465901],
+    "Startdatum": "03-08-2022",
+    "Einddatum": "07-08-2022",
+    "Locaties": [
+        {
+            "Locatie":[54.97335305309526, -1.60599708465901],
+            "Naam":"iQ Student Accommodation",
+            "Beschrijving":"tekst hier",
+            "Startdatum": "datum",
+            "Einddatum": "datum",
+            "Fotos": [],
+        },
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Naam":"Pompei en Amalfikust",
+    "Deelnemers":"jc",
+    "Locatie": [40.748741072466515, 14.498187134245594],
+    "Startdatum": "08-04-2022",
+    "Einddatum": "16-04-2022",
+    "Locaties": [
+        {
+            "Locatie":[40.748765769283196, 14.498153482991917],
+            "Naam":"Pompei",
+            "Beschrijving":"V&V Suite&Breakfast",
+            "Startdatum": "08-04-2022",
+            "Einddatum": "10-04-2022datum",
+            "Fotos": [],
+        },
+        {
+            "Locatie":[40.629360085985894, 14.384778024844397],
+            "Naam":"Sorento",
+            "Beschrijving":"Don Antonio Relais",
+            "Startdatum": "10-04-2022",
+            "Einddatum": "14-04-2022",
+            "Fotos": [],
+        },
+        {
+            "Locatie":[40.680070401485374, 14.755590211397434],
+            "Naam":"Salerno",
+            "Beschrijving":"Casa Maria",
+            "Startdatum": "14-04-2022",
+            "Einddatum": "16-04-2022",
+            "Fotos": [],
+        },
+    ]
+}

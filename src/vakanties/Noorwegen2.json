@@ -1,0 +1,53 @@
+{
+    "Naam":"Cruise Noorwegen",
+    "Deelnemers":"jc",
+    "Locatie": [59.90693865906081, 10.715295280504288],
+    "Startdatum": "18/09/2022",
+    "Einddatum": "25/09/2022",
+    "Locaties": [
+        {
+            "Locatie":[51.907053965899195, 4.487426942820225],
+            "Naam":"Rotterdam",
+            "Beschrijving":"start Last-Minute cruise C en J tussen twee banen J",
+            "Startdatum": "18/09/2022",
+            "Einddatum": "18/09/2022",
+            "Fotos": [],
+        },
+        {
+            "Locatie":[59.90693865906081, 10.715295280504288],
+            "Naam":"Oslo",
+            "Beschrijving":"Na zeedag eerste keer Oslo",
+            "Startdatum": "20/09/2022",
+            "Einddatum": "20/09/2022",
+            "Fotos": [],
+        },{
+            "Locatie":[58.15174676357986, 8.016480552092778],
+            "Naam":"Kristiansand",
+            "Beschrijving":"tweede stop",
+            "Startdatum": "21/09/2022",
+            "Einddatum": "21/09/2022",
+            "Fotos": [],
+        },{
+            "Locatie":[58.97429975964846, 5.730888261428837],
+            "Naam":"Stavanger",
+            "Beschrijving":"derde stop",
+            "Startdatum": "22/09/2022",
+            "Einddatum": "22/09/2022",
+            "Fotos": [],
+        },{
+            "Locatie":[60.86381690369129, 7.115555930281524],
+            "Naam":"Flam",
+            "Beschrijving":"vierde stop",
+            "Startdatum": "23/09/2022",
+            "Einddatum": "23/09/2022",
+            "Fotos": [],
+        },{
+            "Locatie":[51.907287671041175, 4.48814669137732],
+            "Naam":"Rotterdam",
+            "Beschrijving":"terug in de thuishaven Rotterdam",
+            "Startdatum": "25/09/2022",
+            "Einddatum": "25/09/2022",
+            "Fotos": [],
+        },
+    ]
+}

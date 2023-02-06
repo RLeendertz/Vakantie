@@ -1,0 +1,17 @@
+{
+    "Naam":"Stockholm T en Antoine",
+    "Deelnemers":"t",
+    "Locatie": [59.30107639685977, 18.10065708344618],
+    "Startdatum": "04-04-2022",
+    "Einddatum": "08-04-2022",
+    "Locaties": [
+        {
+            "Locatie":[59.30107639685977, 18.10065708344618],
+            "Naam":"B&B",
+            "Beschrijving":"vliegen met Antoine",
+            "Startdatum": "04-04-2022",
+            "Einddatum": "08-04-2022",
+            "Fotos": [],
+        },
+    ]
+}

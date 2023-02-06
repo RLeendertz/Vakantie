@@ -1,0 +1,17 @@
+{
+    "Naam":"Portsmouth",
+    "Deelnemers":"t",
+    "Locatie": [50.79205366727508, -1.0954954288368672],
+    "Startdatum": "25-11-2022",
+    "Einddatum": "27-11-2022",
+    "Locaties": [
+        {
+            "Locatie":[50.79205366727508, -1.0954954288368672],
+            "Naam":"Portsmouth Landport Terrace 20b",
+            "Beschrijving":"bezoek Silas met Robbin",
+            "Startdatum": "25-11-2022",
+            "Einddatum": "27-11-2022",
+            "Fotos": [],
+        },
+    ]
+}

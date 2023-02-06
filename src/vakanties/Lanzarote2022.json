@@ -1,0 +1,17 @@
+{
+    "Naam":"Lanzarote",
+    "Deelnemers":"jctn",
+    "Locatie": [28.919836555827523, -13.651926988841337],
+    "Startdatum": "22-10-22",
+    "Einddatum": "29-10-2022",
+    "Locaties": [
+        {
+            "Locatie":[28.919836555827523, -13.651926988841337],
+            "Naam":"Lanzarote Flamingo",
+            "Beschrijving":"Herfstvakantie",
+            "Startdatum": "22-10-2022",
+            "Einddatum": "29-10-2022",
+            "Fotos": [],
+        },
+    ]
+}

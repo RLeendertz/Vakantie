@@ -19,6 +19,9 @@ def extract_first(path):
 	return path["geometry"]["coordinates"][0]
 
 def do_api(text):
+	if type(text) == list and len(text) == 2:
+		#assume it's coords already
+		return text
 	try: 
 		x,y=map(float, text.split(','))
 		return y,x

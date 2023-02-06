@@ -1,0 +1,25 @@
+{
+    "Naam":"Denenmarken en Noord-Duitsland",
+    "Deelnemers":"T",
+    "Locatie": [-55.392475925013244, 9.387298446988039],
+    "Startdatum": "09-07-2022",
+    "Einddatum": "14-07-2022",
+    "Locaties": [
+        {
+            "Locatie":[55.392475925013244, 9.387298446988039],
+            "Naam":"Bakkevaenget 4",
+            "Beschrijving":"met onze auto en Robbin en Lieuwe",
+            "Startdatum": "09-07-22",
+            "Einddatum": "12-07-2022",
+            "Fotos": [],
+        },
+        {
+            "Locatie":[53.86030449112819, 8.592885656276632],
+            "Naam":"Cuxhaven",
+            "Beschrijving":"Am Sahlenburger Strand 25",
+            "Startdatum": "12-07-2022",
+            "Einddatum": "14-07-2022",
+            "Fotos": [],
+        },
+    ]
+}
