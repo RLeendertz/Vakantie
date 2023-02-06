@@ -159,7 +159,13 @@ for filename in os.listdir(directory):
 
 	mod, fotos,path = do_inner(prevdata["locations"]["features"], new["Locaties"])
 	prevdata["path"] = path
-	prev["geometry"]["coordinates"] = extract_first(path)
+	if type(new["Locatie"]) == list and len(new["Locatie"]) == 2:
+		#assume it's coords already
+		coords = new["Locatie"][::-1]
+		if prev["geometry"]["coordinates"] != coords: modified = True
+		prev["geometry"]["coordinates"] = coords
+	else:
+		prev["geometry"]["coordinates"] = extract_first(path)
 
 	modified |=mod
 
