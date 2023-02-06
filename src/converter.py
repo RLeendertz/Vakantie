@@ -21,7 +21,7 @@ def extract_first(path):
 def do_api(text):
 	if type(text) == list and len(text) == 2:
 		#assume it's coords already
-		return text
+		return text[::-1]
 	try: 
 		x,y=map(float, text.split(','))
 		return y,x
