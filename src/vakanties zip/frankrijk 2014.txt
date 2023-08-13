@@ -10,7 +10,7 @@
             "Naam":"kamp 1",
             "Beschrijving":"",
             "Startdatum": "17/7/2014",
-            "Einddatum": "22/7/2014",
+            "Einddatum": "21/7/2014",
             "Fotos": [],
         },
         {
@@ -18,7 +18,7 @@
             "Naam":"kamp 2",
             "Beschrijving":"",
             "Startdatum": "22/7/2014",
-            "Einddatum": "26/7/2014",
+            "Einddatum": "25/7/2014",
             "Fotos": [],
         },
         {
@@ -26,7 +26,7 @@
             "Naam":"kamp 3",
             "Beschrijving":"",
             "Startdatum": "26/7/2014",
-            "Einddatum": "1/8/2014",
+            "Einddatum": "31/7/2014",
             "Fotos": [],
         },
         {

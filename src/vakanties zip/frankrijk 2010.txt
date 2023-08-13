@@ -10,7 +10,7 @@
             "Naam":"kamp 1",
             "Beschrijving":"",
             "Startdatum": "2/7/2010",
-            "Einddatum": "7/7/2010",
+            "Einddatum": "6/7/2010",
             "Fotos": [],
         },
         {
@@ -18,7 +18,7 @@
             "Naam":"kamp 2",
             "Beschrijving":"",
             "Startdatum": "7/7/2010",
-            "Einddatum": "9/7/2010",
+            "Einddatum": "8/7/2010",
             "Fotos": [],
         },
         {
@@ -26,7 +26,7 @@
             "Naam":"kamp 3",
             "Beschrijving":"",
             "Startdatum": "9/7/2010",
-            "Einddatum": "12/7/2010",
+            "Einddatum": "11/7/2010",
             "Fotos": [],
         },
         {
@@ -34,7 +34,7 @@
             "Naam":"kamp 4",
             "Beschrijving":"",
             "Startdatum": "12/7/2010",
-            "Einddatum": "16/7/2010",
+            "Einddatum": "15/7/2010",
             "Fotos": [],
         },
         {

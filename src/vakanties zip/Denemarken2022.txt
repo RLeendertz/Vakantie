@@ -1,7 +1,7 @@
 {
     "Naam":"Denenmarken en Noord-Duitsland",
     "Deelnemers":"T",
-    "Locatie": [-55.392475925013244, 9.387298446988039],
+    "Locatie": [55.392475925013244, 9.387298446988039],
     "Startdatum": "09-07-2022",
     "Einddatum": "14-07-2022",
     "Locaties": [

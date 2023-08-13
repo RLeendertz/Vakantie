@@ -157,7 +157,7 @@ for filename in os.listdir(directory):
 			modified = True
 			prevdata[mapping[m]] = new[m]
 
-	mod, fotos,path = do_inner(prevdata["locations"]["features"], new["Locaties"])
+	mod, fotos, path = do_inner(prevdata["locations"]["features"], new["Locaties"])
 	prevdata["path"] = path
 	if type(new["Locatie"]) == list and len(new["Locatie"]) == 2:
 		#assume it's coords already
@@ -167,7 +167,7 @@ for filename in os.listdir(directory):
 	else:
 		prev["geometry"]["coordinates"] = extract_first(path)
 
-	modified |=mod
+	modified |= mod
 
 	if "fotos" not in prev or prev["fotos"] != fotos:
 		modified = True

@@ -11,7 +11,7 @@
             "Beschrijving":"",
             "Startdatum": "31/5/2000",
             "Einddatum": "31/5/2000",
-            "Fotos": [],
+            "Fotos": []
         },
         {
             "Locatie":"Range Rd 91A, Lac des Arcs, AB T1W 2W3, Canada",

@@ -1,0 +1,17 @@
+{
+   "Naam":"Duikvakantie Bonaire",
+   "Deelnemers":"jr",
+   "Locatie": [12.179284034051296, -68.29232647220947],
+   "Startdatum": "19/03/2023",
+   "Einddatum": "29/03/2023",
+   "Locaties": [
+       {
+           "Locatie":[12.179284034051296, -68.29232647220947],
+           "Naam":"Divers Paradise",
+           "Beschrijving":"9 dagen duiken met 25 duiken",
+           "Startdatum": "19/03/2023",
+           "Einddatum": "29/03/2023",
+           "Fotos": [],
+       },
+   ]
+}

@@ -10,7 +10,7 @@
             "Naam":"kamp 1",
             "Beschrijving":"",
             "Startdatum": "29/7/2011",
-            "Einddatum": "31/7/2011",
+            "Einddatum": "30/7/2011",
             "Fotos": [],
         },
         {
@@ -18,7 +18,7 @@
             "Naam":"kamp 2",
             "Beschrijving":"",
             "Startdatum": "31/7/2011",
-            "Einddatum": "1/8/2011",
+            "Einddatum": "31/7/2011",
             "Fotos": [],
         },
         {
@@ -26,7 +26,7 @@
             "Naam":"kamp 3",
             "Beschrijving":"",
             "Startdatum": "1/8/2011",
-            "Einddatum": "4/8/2011",
+            "Einddatum": "3/8/2011",
             "Fotos": [],
         },
         {
@@ -34,7 +34,7 @@
             "Naam":"kamp 4",
             "Beschrijving":"",
             "Startdatum": "4/8/2011",
-            "Einddatum": "8/8/2011",
+            "Einddatum": "7/8/2011",
             "Fotos": [],
         },
         {

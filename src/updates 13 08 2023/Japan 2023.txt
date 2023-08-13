@@ -1,0 +1,17 @@
+{
+   "Naam":"Eindexamenreis T Japan",
+   "Deelnemers":"ct",
+   "Locatie": [35.71426785680067, 139.79424018777956],
+   "Startdatum": "13/04/2023",
+   "Einddatum": "21/04/2023",
+   "Locaties": [
+       {
+           "Locatie":[35.71426785680067, 139.79424018777956],
+           "Naam":"Richmond Hotel",
+           "Beschrijving":"Eindexamen VWO T",
+           "Startdatum": "13/04/2023",
+           "Einddatum": "21/04/2023",
+           "Fotos": [],
+       },
+   ]
+}

@@ -10,7 +10,7 @@
             "Naam":"kamp 1",
             "Beschrijving":"",
             "Startdatum": "24/4/2011",
-            "Einddatum": "28/4/2011",
+            "Einddatum": "27/4/2011",
             "Fotos": [],
         },
         {
@@ -18,7 +18,7 @@
             "Naam":"kamp 2",
             "Beschrijving":"",
             "Startdatum": "28/4/2011",
-            "Einddatum": "1/5/2011",
+            "Einddatum": "30/4/2011",
             "Fotos": [],
         },
         {
