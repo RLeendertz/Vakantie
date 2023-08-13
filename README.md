@@ -1,8 +1,3 @@
-# Google Maps JavaScript API Sample Application
-
-This sample is generated from @googlemaps/js-samples located at
-https://github.com/googlemaps/js-samples.
-
 ## Setup
 
 ```sh
@@ -11,13 +6,19 @@ npm start  # development
 npm run build  # production
 ```
 
-The application is currently using the `.env` file to embed the API key in the
-HTML document. This is a temporary key and is not valid for production usage. It
-can be replaced by following these instructions to
-[get an api key](https://developers.google.com/maps/documentation/javascript/get-api-key).
+Code notes:
 
-## Feedback
+Als Locatie een [x, y] array is ipv een string, wordt dat de locatie van de pin van die vakantie.
+die krijg je met maps.google.com, rechts klikken, daar coordinaten nemen.
+De vakanties moeten een unieke naam hebben, daarop wordt geidentificeerd.
 
-For feedback related to this sample, please open a new issue on
-[GitHub](https://github.com/googlemaps/js-samples/issues).
-# Vakantie
+Nieuwe vakanties moeten in een folder 'new' komen.
+De converter updated output_dry.json.
+
+commands om het te doen zijn:
+python3 converter.py
+npm run build
+git add *
+git commit -m 'added more vakanties'
+git push
+
