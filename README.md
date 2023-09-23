@@ -16,8 +16,10 @@ Nieuwe vakanties moeten in een folder 'new' komen.
 De converter updated output_dry.json.
 
 commands om het te doen zijn:
+cd ~/js-samples/src
 python3 converter.py
 npm run build
+cd ..
 git add *
 git commit -m 'added more vakanties'
 git push

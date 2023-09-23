@@ -1,0 +1,41 @@
+{
+   "Naam":"Corsica 2023",
+   "Deelnemers":"jc",
+   "Locatie": [42.62774833772137, 9.439310803741838],
+   "Startdatum": "15/09/2023",
+   "Einddatum": "22/09/2023",
+   "Locaties": [
+       {
+           "Locatie":[42.62774833772137, 9.439310803741838],
+           "Naam":"Biguglia",
+           "Beschrijving":"Cors'Hotel",
+           "Startdatum": "15/09/2023",
+           "Einddatum": "16/09/2023",
+           "Fotos": [],
+       },
+       {
+           "Locatie":[42.56803720254494, 8.751078717068207],
+           "Naam":"Calvi",
+           "Beschrijving":"Il Tramonto",
+           "Startdatum": "16/09/2023",
+           "Einddatum": "18/09/2023",
+           "Fotos": [],
+       },
+       {
+           "Locatie":[41.92639865661207, 8.730467746964504],
+           "Naam":"Ajaccio",
+           "Beschrijving":"Appartement vue Mer",
+           "Startdatum": "18/09/2023",
+           "Einddatum": "20/09/2023",
+           "Fotos": [],
+       },
+       {
+           "Locatie":[41.58003793511043, 9.254894791165084],
+           "Naam":"Porto-Vecchio",
+           "Beschrijving":"San Giovanni",
+           "Startdatum": "20/09/2023",
+           "Einddatum": "22/09/2023",
+           "Fotos": [],
+       },
+     ],
+}
