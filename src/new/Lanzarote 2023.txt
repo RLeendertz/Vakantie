@@ -1,0 +1,17 @@
+{
+  "Naam":"Lanzarote 2023",
+  "Deelnemers":"jcrtn",
+  "Locatie": [28.92038379594421, -13.65150861665069],
+  "Startdatum": "03/11/2023",
+  "Einddatum": "10/11/2023",
+  "Locaties": [
+      {
+          "Locatie":[28.92038379594421, -13.65150861665069],
+          "Naam":"Puerto del Carmen",
+          "Beschrijving":"Fayna",
+          "Startdatum": "03/11/2023",
+          "Einddatum": "10/11/2023",
+          "Fotos": [],
+      },
+    ],
+}
