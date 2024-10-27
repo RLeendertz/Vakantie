@@ -1,0 +1,3 @@
+	{"Naam":"Summer School UAB", "Deelnemers":"jc", "Locatie": [41.499854456568826, 2.0977018203670315], "Startdatum":"14/07/2024", "Einddatum":"02/08/2024","Locaties": [
+	{"Locatie":[50.840884, 4.355949], "Naam":"Barcelona","Beschrijving":"UAB Summer School","Startdatum":"14/07/2024","Einddatum":"02/08/2024","Fotos": [] }
+	] }
