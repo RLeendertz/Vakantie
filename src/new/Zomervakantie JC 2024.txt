@@ -1,8 +1,8 @@
-	{"Naam":"Zomervakantie 2024", "Deelnemers":"jc", "Locatie": [41.52193483755429, 2.2923750165267798], "Startdatum":"10/07/2024", "Einddatum":"26/07/2024","Locaties": [
-	{"Locatie":[52.018898054909066, 5.645569836940446], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"10/07/2024","Einddatum":"10/07/2024","Fotos": [] }
-	,{"Locatie":[43.6851470890337, -79.61810629832362], "Naam":"Rouffilac","Beschrijving":"Camping Les Ombrages","Startdatum":"10/07/2024","Einddatum":"15/07/2024","Fotos": [] }
-	,{"Locatie":[42.50229900180453, 1.5165158434191137], "Naam":"Andorra","Beschrijving":"La Vella","Startdatum":"15/07/2024","Einddatum":"19/07/2024","Fotos": [] }
-	,{"Locatie":[41.52193483755429, 2.2923750165267798], "Naam":"Barcelona","Beschrijving":"Camping","Startdatum":"19/07/2024","Einddatum":"22/07/2024","Fotos": [] }
-	,{"Locatie":[47.06882161884217, 4.801873095383129], "Naam":"Beaune","Beschrijving":"Camping","Startdatum":"22/07/2024","Einddatum":"26/07/2024","Fotos": [] }
-	,{"Locatie":[52.018898054909066, 5.645569836940446], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"26/07/2024","Einddatum":"26/07/2024","Fotos": [] }
-	] }
+{"Naam":"Zomervakantie 2024", "Deelnemers":"jc", "Locatie": [41.52193483755429, 2.2923750165267798], "Startdatum":"10/07/2024", "Einddatum":"26/07/2024","Locaties": [
+{"Locatie":[52.018898054909066, 5.645569836940446], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"10/07/2024","Einddatum":"10/07/2024","Fotos": [] }
+,{"Locatie":[44.86715433371619, 1.360046117607811], "Naam":"Rouffilac","Beschrijving":"Camping Les Ombrages","Startdatum":"10/07/2024","Einddatum":"15/07/2024","Fotos": [] }
+,{"Locatie":[42.50229900180453, 1.5165158434191137], "Naam":"Andorra","Beschrijving":"La Vella","Startdatum":"15/07/2024","Einddatum":"19/07/2024","Fotos": [] }
+,{"Locatie":[41.52193483755429, 2.2923750165267798], "Naam":"Barcelona","Beschrijving":"Camping","Startdatum":"19/07/2024","Einddatum":"22/07/2024","Fotos": [] }
+,{"Locatie":[47.06882161884217, 4.801873095383129], "Naam":"Beaune","Beschrijving":"Camping","Startdatum":"22/07/2024","Einddatum":"26/07/2024","Fotos": [] }
+,{"Locatie":[52.018898054909066, 5.645569836940446], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"26/07/2024","Einddatum":"26/07/2024","Fotos": [] }
+] }
