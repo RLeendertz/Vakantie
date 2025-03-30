@@ -1,6 +1,6 @@
 {
     "Naam":"wintersport 1996",
-    "Deelnemers":"jcrtn",
+    "Deelnemers":"jc",
     "Locatie": "Haute-Nendaz",
     "Startdatum": "1/1996",
     "Einddatum": "1/1996",

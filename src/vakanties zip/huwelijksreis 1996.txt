@@ -1,7 +1,7 @@
 {
     "Naam":"huwelijksreis 1996",
     "Deelnemers":"jc",
-    "Locatie": "Signapore en Nieuw-Zeeland",
+    "Locatie": [-46.3450969196267, 168.34816147256382],
     "Startdatum": "1/12/1996",
     "Einddatum": "29/12/1996",
     "Locaties": [

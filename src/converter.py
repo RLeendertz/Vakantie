@@ -30,8 +30,9 @@ def do_api(text):
 		return [0,0]
 	# import random
 	# return [random.randint(-100, 100),random.randint(-50, 50)]
-	payload = {"key": key, "query":text}
-	r = requests.get("https://maps.googleapis.com/maps/api/place/textsearch/json", params=payload)
+	headers = {"X-Goog-Api-Key": key, "X-Goog-FieldMask": "places.geometry,places.displayName"}
+	payload = {"textQuery":text}
+	r = requests.get(url="https://places.googleapis.com/v1/places:searchText", params=payload, headers=headers)
 	print(text, r.status_code)
 	try:
 		if not r.ok:
@@ -130,7 +131,7 @@ def def_value():
 	}
 
 output = ".\\output_dry.json"
-with open(output, encoding='utf-8') as f:
+with open(output, encoding="utf-8") as f:
 	data = f.read()
 obj = eval(data)
 
@@ -143,7 +144,7 @@ for filename in os.listdir(directory):
 	file = os.path.join(directory, filename)
 	if not os.path.isfile(file): continue
 	print("opening", filename)
-	with open(file, encoding='utf-8') as f:
+	with open(file, encoding="utf-8") as f:
 		new = eval(f.read())
 	file = new["Naam"]
 	prev = data[file]

@@ -1,3 +1,0 @@
-	{"Naam":"Rome", "Deelnemers":"cr", "Locatie": [41.888335416020006, 12.496797234438656], "Startdatum":"17/05/2024", "Einddatum":"25/05/2024","Locaties": [
-	{"Locatie":[41.888335416020006, 12.496797234438656], "Naam":"Rome","Beschrijving":"Rome Rens en Caroline","Startdatum":"17/05/2024","Einddatum":"25/05/2024","Fotos": [] }
-	] }

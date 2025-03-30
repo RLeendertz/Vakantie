@@ -1,7 +1,7 @@
 {
     "Naam":"Wereldreis 1998",
     "Deelnemers":"jc",
-    "Locatie": "de hele wereld",
+    "Locatie": [-36.881718173928256, 174.8123884375092],
     "Startdatum": "10/1/1998",
     "Einddatum": "21/2/1998",
     "Locaties": [

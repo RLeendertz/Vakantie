@@ -1,0 +1,3 @@
+{"Naam":"Lanzarote 2024", "Deelnemers":"jcrt", "Locatie": [28.92053279930858, -13.651554792901191], "Startdatum":"02/11/2024", "Einddatum":"09/11/2024","Locaties": [
+{"Locatie":[28.92053279930858, -13.651554792901191], "Naam":"Herfstvakantie 2024","Beschrijving":"Fayna","Startdatum":"02/11/2024","Einddatum":"09/11/2024","Fotos": [] }
+] }
