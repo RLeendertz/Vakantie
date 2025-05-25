@@ -1,0 +1,7 @@
+{"Naam":"Duiken Bonaire", "Deelnemers":"jr", "Locatie": [12.174798147614107, -68.28973525608367], "Startdatum":"10/05/2025", "Einddatum":"22/05/2025","Locaties": [
+{"Locatie":[52.312024, 4.763740], "Naam":"Schiphol","Beschrijving":"vliegveld","Startdatum":"10/05/2025","Einddatum":"10/05/2025","Fotos": [] }
+,{"Locatie":[12.18959252137784, -68.96395613842532], "Naam":"Curacao","Beschrijving":"vliegveld","Startdatum":"10/05/2025","Einddatum":"10/05/2025","Fotos": [] }
+,{"Locatie":[12.174798147614107, -68.28973525608367], "Naam":"Kralendijk - bonaire","Beschrijving":"Cliff Hamlet Oasis","Startdatum":"10/05/2025","Einddatum":"21/05/2025","Fotos": [] }
+,{"Locatie":[12.18657243047286, -68.94885465936746], "Naam":"Curacao","Beschrijving":"vliegveld","Startdatum":"21/05/2025","Einddatum":"21/05/2025","Fotos": [] }
+,{"Locatie":[52.312024, 4.763740], "Naam":"Schiphol","Beschrijving":"luchthaven","Startdatum":"22/05/2025","Einddatum":"22/05/2025","Fotos": [] }
+] }
