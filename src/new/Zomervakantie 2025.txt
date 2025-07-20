@@ -1,0 +1,7 @@
+{"Naam":"Zomervakantie CJ", "Deelnemers":"cj", "Locatie": [48.60581403955513, -2.820048864707296], "Startdatum":"04/07/2025", "Einddatum":"18/07/2025","Locaties": [
+{"Locatie":[52.018735310165994, 5.645531689255166], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"04/07/2025","Einddatum":"04/07/2025","Fotos": [] }
+,{"Locatie":[47.624466175361704, -2.8258782944847494], "Naam":"Arradon","Beschrijving":"camping","Startdatum":"04/07/2025","Einddatum":"08/07/2025","Fotos": [] }
+,{"Locatie":[48.60581403955513, -2.820048864707296], "Naam":"Binic","Beschrijving":"camping","Startdatum":"08/07/2025","Einddatum":"15/07/2025","Fotos": [] }
+,{"Locatie":[48.54691559902668, -0.41764159312297483], "Naam":"Bagnoles de-l'Orne","Beschrijving":"camping","Startdatum":"15/07/2025","Einddatum":"18/07/2025","Fotos": [] }
+,{"Locatie":[52.018735310165994, 5.645531689255166], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"18/07/2025","Einddatum":"18/07/2025","Fotos": [] }
+] }
