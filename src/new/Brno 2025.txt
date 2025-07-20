@@ -1,4 +1,4 @@
-{"Naam":"Summer School Brno", "Deelnemers":"n", "Locatie": [50.0870451393568, 14.435421662690839], "Startdatum":"11/07/2025", "Einddatum":"28/07/2025","Locaties": [
+{"Naam":"Summer School Brno", "Deelnemers":"n", "Locatie": [49.19168975111661, 16.584065364142194], "Startdatum":"11/07/2025", "Einddatum":"28/07/2025","Locaties": [
 {"Locatie":[52.153510715101646, 5.373807110595196], "Naam":"Amersfoort","Beschrijving":"vertrek station","Startdatum":"11/07/2025","Einddatum":"11/07/2025","Fotos": [] }
 ,{"Locatie":[50.0833602285217, 14.435305896388115], "Naam":"Praag","Beschrijving":"nachttrein","Startdatum":"11/07/2025","Einddatum":"12/07/2025","Fotos": [] }
 ,{"Locatie":[49.19168975111661, 16.584065364142194], "Naam":"Brno","Beschrijving":"Universiteitshotel","Startdatum":"12/07/2025","Einddatum":"26/07/2025","Fotos": [] }
