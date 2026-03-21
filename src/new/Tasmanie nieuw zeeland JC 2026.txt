@@ -1,0 +1,48 @@
+{"Naam":"Tasmanie en New Zealand", "Deelnemers":"jc", "Locatie": [-42.83709949949828, 147.5090468406173], "Startdatum":"07/02/2026", "Einddatum":"20/03/2026","Locaties": [
+{"Locatie":[52.312024, 4.763740], "Naam":"Schiphol","Beschrijving":"vliegveld","Startdatum":"07/02/2026","Einddatum":"08/02/2026","Fotos": [] }
+,{"Locatie":[22.316082801609536, 113.93150095802778], "Naam":"Hongkong","Beschrijving":"vliegveld","Startdatum":"08/02/2026","Einddatum":"09/02/2026","Fotos": [] }
+,{"Locatie":[-37.671582034754024, 144.8535565569203], "Naam":"Melbourne","Beschrijving":"Holliday Inn","Startdatum":"09/02/2026","Einddatum":"09/02/2026","Fotos": [] }
+,{"Locatie":[-42.882040503224445, 147.3264994944604], "Naam":"Hobart","Beschrijving":"Crona Plaza","Startdatum":"09/02/2026","Einddatum":"10/02/2026","Fotos": [] }
+,{"Locatie":[-42.68811317949214, 146.715859387162], "Naam":"Mount Field NP","Beschrijving":"camping","Startdatum":"10/02/2026","Einddatum":"11/02/2026","Fotos": [] }
+,{"Locatie":[-42.08868180852278, 145.5451479133047], "Naam":"Quenstown","Beschrijving":"camping","Startdatum":"11/02/2026","Einddatum":"13/02/2026","Fotos": [] }
+,{"Locatie":[-41.54537814519626, 146.06584078699055], "Naam":"Cradle Mountain","Beschrijving":"camping","Startdatum":"13/02/2026","Einddatum":"15/02/2026","Fotos": [] }
+,{"Locatie":[-41.16211191710666, 146.57008481643257], "Naam":"Narawntapu NP","Beschrijving":"camping","Startdatum":"15/02/2026","Einddatum":"16/02/2026","Fotos": [] }
+,{"Locatie":[-41.223115663947944, 148.28309998276222], "Naam":"Bay of Fires","Beschrijving":"camping","Startdatum":"16/02/2026","Einddatum":"17/02/2026","Fotos": [] }
+,{"Locatie":[-42.121652304205675, 148.34316934525754], "Naam":"Coles Bay","Beschrijving":"uitzichtpunt","Startdatum":"17/02/2026","Einddatum":"18/02/2026","Fotos": [] }
+,{"Locatie":[-42.124893716585596, 148.2967520000269], "Naam":"Freycinet NP","Beschrijving":"camping","Startdatum":"18/02/2026","Einddatum":"19/02/2026","Fotos": [] }
+,{"Locatie":[-43.00298813496248, 147.940620963227], "Naam":"Eaglehawk Neck","Beschrijving":"camping","Startdatum":"19/02/2026","Einddatum":"21/02/2026","Fotos": [] }
+,{"Locatie":[-43.13204906518378, 147.86056742281443], "Naam":"Port Arthur","Beschrijving":"camping","Startdatum":"21/02/2026","Einddatum":"22/02/2026","Fotos": [] }
+,{"Locatie":[-42.882040503224445, 147.3264994944604], "Naam":"Hobart","Beschrijving":"camping","Startdatum":"22/02/2026","Einddatum":"23/02/2026","Fotos": [] }
+,{"Locatie":[-37.67035392265421, 144.8436676807161], "Naam":"Hodart- Melbourne ","Beschrijving":"vlucht","Startdatum":"23/02/2026","Einddatum":"23/02/2026","Fotos": [] }
+,{"Locatie":[-43.487708418825534, 172.53980044414348], "Naam":"Melbourne - Christchurch","Beschrijving":"vlucht","Startdatum":"23/02/2026","Einddatum":"23/02/2026","Fotos": [] }
+,{"Locatie":[-43.488082834072785, 172.54180481046885], "Naam":"Christchurch","Beschrijving":"Novotel Airport hotel","Startdatum":"23/02/2026","Einddatum":"24/02/2026","Fotos": [] }
+,{"Locatie":[-44.183039813547786, 170.15426819412775], "Naam":"Lake Pukaki","Beschrijving":"free camp","Startdatum":"24/02/2026","Einddatum":"25/02/2026","Fotos": [] }
+,{"Locatie":[-43.49860429640722, 170.19094135030943], "Naam":"Mount Cook / Franz Jozef","Beschrijving":"helikoptervlucht","Startdatum":"25/02/2026","Einddatum":"25/02/2026","Fotos": [] }
+,{"Locatie":[-44.25189076079499, 170.10008726333353], "Naam":"Twizel","Beschrijving":"camping","Startdatum":"25/02/2026","Einddatum":"26/02/2026","Fotos": [] }
+,{"Locatie":[-43.29740117332967, 170.22409402823533], "Naam":"Westland NP / Tai Poutine NP","Beschrijving":"camping","Startdatum":"26/02/2026","Einddatum":"27/02/2026","Fotos": [] }
+,{"Locatie":[-42.10656898223173, 171.33627253625122], "Naam":"Punakaiki / Pancake Rocks","Beschrijving":"camping","Startdatum":"27/02/2026","Einddatum":"28/02/2026","Fotos": [] }
+,{"Locatie":[-41.036004897065716, 173.01618515475838], "Naam":"Kaireriteri","Beschrijving":"camping","Startdatum":"28/02/2026","Einddatum":"01/03/2026","Fotos": [] }
+,{"Locatie":[-40.920023241023436, 173.0548949313885], "Naam":"Abel tasman Park / Medlandsbay","Beschrijving":"wandeling","Startdatum":"01/03/2026","Einddatum":"01/03/2026","Fotos": [] }
+,{"Locatie":[-41.036004897065716, 173.01618515475838], "Naam":"Kaireriteri","Beschrijving":"camping","Startdatum":"01/03/2026","Einddatum":"02/03/2026","Fotos": [] }
+,{"Locatie":[-41.43932035423533, 174.01862946357332], "Naam":"Rarangi / Blenheim","Beschrijving":"free camp","Startdatum":"02/03/2026","Einddatum":"03/03/2026","Fotos": [] }
+,{"Locatie":[-41.270014984848245, 173.94225215845924], "Naam":"Momorangi Bay","Beschrijving":"camping","Startdatum":"03/03/2026","Einddatum":"04/03/2026","Fotos": [] }
+,{"Locatie":[-41.039638635109085, 173.86077303559208], "Naam":"Pelorus sound","Beschrijving":"postboot","Startdatum":"04/03/2026","Einddatum":"04/03/2026","Fotos": [] }
+,{"Locatie":[-41.270014984848245, 173.94225215845924], "Naam":"Momorangi Bay","Beschrijving":"camping","Startdatum":"04/03/2026","Einddatum":"05/03/2026","Fotos": [] }
+,{"Locatie":[-41.28848526052953, 174.00267787705087], "Naam":"Picton","Beschrijving":"overtocht","Startdatum":"05/03/2026","Einddatum":"05/03/2026","Fotos": [] }
+,{"Locatie":[-41.2644265868155, 174.78767934957506], "Naam":"Wellington","Beschrijving":"overtocht","Startdatum":"05/03/2026","Einddatum":"05/03/2026","Fotos": [] }
+,{"Locatie":[-39.931293011659584, 175.02974020967062], "Naam":"Whanganui","Beschrijving":"free camp","Startdatum":"05/03/2026","Einddatum":"06/03/2026","Fotos": [] }
+,{"Locatie":[-39.14855793603205, 174.7402876185256], "Naam":"Whangamomona","Beschrijving":"camping","Startdatum":"06/03/2026","Einddatum":"07/03/2026","Fotos": [] }
+,{"Locatie":[-38.66247482245948, 176.08071408291923], "Naam":"Taupo","Beschrijving":"free camp","Startdatum":"07/03/2026","Einddatum":"08/03/2026","Fotos": [] }
+,{"Locatie":[-36.53115075300335, 174.70196705064444], "Naam":"Rotorua / Hibiscus Coast","Beschrijving":"camping","Startdatum":"08/03/2026","Einddatum":"09/03/2026","Fotos": [] }
+,{"Locatie":[-36.41177506955348, 174.72913549423504], "Naam":"Snells Beach","Beschrijving":"free camp","Startdatum":"09/03/2026","Einddatum":"10/03/2026","Fotos": [] }
+,{"Locatie":[-36.13425435107467, 174.18965304517644], "Naam":"Matakohe","Beschrijving":"camping","Startdatum":"10/03/2026","Einddatum":"12/03/2026","Fotos": [] }
+,{"Locatie":[-36.87880349584672, 175.01980387750496], "Naam":"Beachland / Omana Cliff RP","Beschrijving":"camping","Startdatum":"12/03/2026","Einddatum":"13/03/2026","Fotos": [] }
+,{"Locatie":[-36.84840068069834, 174.76220707473982], "Naam":"Auckland","Beschrijving":"per forensenboot","Startdatum":"13/03/2026","Einddatum":"13/03/2026","Fotos": [] }
+,{"Locatie":[-36.87880349584672, 175.01980387750496], "Naam":"Beachland / Omana Cliff RP","Beschrijving":"camping","Startdatum":"13/03/2026","Einddatum":"14/03/2026","Fotos": [] }
+,{"Locatie":[-36.840106757902284, 175.80850005489398], "Naam":"Hahei Coromandel / Cathedral Cove","Beschrijving":"camping","Startdatum":"14/03/2026","Einddatum":"16/03/2026","Fotos": [] }
+,{"Locatie":[-36.759026544033205, 175.49865187379095], "Naam":"Coromandel Town","Beschrijving":"camping","Startdatum":"16/03/2026","Einddatum":"17/03/2026","Fotos": [] }
+,{"Locatie":[-37.13734926863517, 175.539058223699], "Naam":"Thames","Beschrijving":"camping","Startdatum":"17/03/2026","Einddatum":"18/03/2026","Fotos": [] }
+,{"Locatie":[-36.88244762564181, 174.81249121679744], "Naam":"Remuera (Auckland)","Beschrijving":"camping","Startdatum":"18/03/2026","Einddatum":"19/03/2026","Fotos": [] }
+,{"Locatie":[22.311770837678413, 113.92697682990716], "Naam":"Auckland - Hongkong","Beschrijving":"vlucht","Startdatum":"19/03/2026","Einddatum":"19/03/2026","Fotos": [] }
+,{"Locatie":[52.312024, 4.763740], "Naam":"Hongkong - Amsterdam","Beschrijving":"vlucht","Startdatum":"19/03/2026","Einddatum":"20/03/2026","Fotos": [] }
+] }
