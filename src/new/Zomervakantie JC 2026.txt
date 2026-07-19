@@ -1,0 +1,7 @@
+{"Naam":"Zomervakantie CJ 2026", "Deelnemers":"cj", "Locatie": [49.424878718128085, 0.22484467915115428], "Startdatum":"02/07/2026", "Einddatum":"17/07/2026","Locaties": [
+{"Locatie":[52.018735310165994, 5.645531689255166], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"02/07/2026","Einddatum":"02/07/2026","Fotos": [] }
+,{"Locatie":[49.05985837678698, 3.9487866473890776], "Naam":"Epernay","Beschrijving":"camping","Startdatum":"02/07/2026","Einddatum":"06/07/2026","Fotos": [] }
+,{"Locatie":[49.424878718128085, 0.22484467915115428], "Naam":"Honfleur","Beschrijving":"camping","Startdatum":"06/07/2026","Einddatum":"15/07/2026","Fotos": [] }
+,{"Locatie":[49.70100094818554, 0.2157607543631329], "Naam":"Etretat","Beschrijving":"camping","Startdatum":"15/07/2026","Einddatum":"17/07/2026","Fotos": [] }
+,{"Locatie":[52.018735310165994, 5.645531689255166], "Naam":"Ede","Beschrijving":"thuis","Startdatum":"17/07/2026","Einddatum":"17/07/2026","Fotos": [] }
+] }

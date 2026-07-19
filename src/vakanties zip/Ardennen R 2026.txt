@@ -1,0 +1,4 @@
+{"Naam":"Uitje StageMonitor Ardennen", "Deelnemers":"r", "Locatie": [50.08804149466663, 5.839715727583878], "Startdatum":"16/07/2026", "Einddatum":"18/07/2026","Locaties": [
+{"Locatie":[50.08804149466663, 5.839715727583878], "Naam":"uitje werk","Beschrijving":"La Maison du Notaire - Gîte","Startdatum":"16/07/2026","Einddatum":"18/07/2026","Fotos": [] }
+] }
+
