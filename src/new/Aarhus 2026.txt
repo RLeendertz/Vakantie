@@ -1,0 +1,7 @@
+{"Naam":"Summer School Arhus", "Deelnemers":"n", "Locatie": [56.178660506062414, 10.182790265360225], "Startdatum":"23/07/2026", "Einddatum":"15/08/2026","Locaties": [
+{"Locatie":[52.312024, 4.763740], "Naam":"Schiphol","Beschrijving":"vliegveld","Startdatum":"23/07/2026","Einddatum":"23/07/2026","Fotos": [] }
+,{"Locatie":[55.74038920523375, 9.145162939926347], "Naam":"Bilund","Beschrijving":"vliegveld","Startdatum":"23/07/2026","Einddatum":"23/07/2026","Fotos": [] }
+,{"Locatie":[56.178660506062414, 10.182790265360225], "Naam":"Arhus","Beschrijving":"Studentenhuisvesting","Startdatum":"23/07/2026","Einddatum":"15/08/2026","Fotos": [] }
+,{"Locatie":[55.74038920523375, 9.145162939926347], "Naam":"Bilund","Beschrijving":"vlieveld","Startdatum":"15/08/2026","Einddatum":"15/08/2026","Fotos": [] }
+,{"Locatie":[52.312024, 4.763740], "Naam":"Schiphol","Beschrijving":"vliegveld","Startdatum":"15/08/2026","Einddatum":"15/08/2026","Fotos": [] }
+] }
